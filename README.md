@@ -6,12 +6,21 @@ A small fan to suck soldering fumes away from the workarea and myself.
 
 I made this since I took apart an old All In One computer, saw the fan (and that it only needed power, no PWM or anything) and thought of this. No harm in having a fume extracter either.
 
-
-# Wiring
+## Wiring
 
 <img width="639" height="849" alt="Screenshot_20260101_224144" src="https://github.com/user-attachments/assets/11dd58e4-4cac-44ce-a051-9507800b90a6" />
 
-# Bill of Materials
+## CAD
+
+### Fan mount
+
+<img width="907" height="897" alt="Screenshot_20260101_225205" src="https://github.com/user-attachments/assets/f42d24b1-a0c5-4842-b2a6-9280bc384fa9" />
+
+### Battery case/mount
+
+<img width="1072" height="929" alt="Screenshot_20260101_225223" src="https://github.com/user-attachments/assets/eafab8b3-48f8-4261-b5c5-4429895cb18e" />
+
+## Bill of Materials
 
 | Item Name | Price | Notes |
 | - | - | - |
